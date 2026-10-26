@@ -1,1 +1,1 @@
-# Basic-CNN-and-ensemble-models
+# Basic CNN and ensemble models
